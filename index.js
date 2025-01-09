@@ -74,4 +74,4 @@ const makeCommits = (n) => {
   });
 };
 
-makeCommits(10000003);
+makeCommits(3045);
